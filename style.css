@@ -1,0 +1,84 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+html{
+
+    scroll-behavior: smooth;
+    min-height: 100vh;
+
+}
+.container{
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+a{
+
+text-decoration: none;
+color: cornflowerblue;
+
+
+}
+#Intro{
+    background-color: dimgray;
+   text-decoration: deepskyblue;
+}
+
+#quien_soy {
+    background-color: indianred;
+text-decoration: violet
+}
+#cosas_feliz {
+    background-color: dimgray;
+    text-decoration: deepskyblue;
+}
+#cosas_enojar{
+    background-color: dimgray;
+   text-decoration: deepskyblue;
+}
+#unica {
+    background-color: dimgray;
+    text-decoration: deepskyblue;
+}
+
+div{
+
+    margin: 55px;
+    background-color: wheat;
+
+}
+
+.full-screen{
+    min-height: 100vh;
+
+}
+.menu{
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+#menu,li{
+    border: solid 1px paleturquoise;
+    padding: 15px 10px;
+    flex-direction: column;
+}
+ul.menu{
+    width: 100%;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    background-color: rebeccapurple;
+}
+
+
+
+
+
+
+
+
+
+
+
