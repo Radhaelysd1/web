@@ -78,7 +78,7 @@ ul.menu{
 }
 
 #container{
-    background-color:  radial-gradient(circle, rgba(238,174,202,1) 54%, rgba(47,5,50,0.10407913165266103) 55%);
+    background-image:  radial-gradient(circle, rgba(238,174,202,1) 54%, rgba(47,5,50,0.10407913165266103) 55%);
 }
 
 
