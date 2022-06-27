@@ -71,7 +71,8 @@ ul.menu{
     justify-content: space-between;
     background-color: rebeccapurple;
 }
-p{
+
+#conteiner{
     font-family: 'League Gothic', sans-serif;
 }
 
