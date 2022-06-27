@@ -23,25 +23,25 @@ color: cornflowerblue;
 }
 #Intro{
   
-   text-decoration: deepskyblue;
+ 
    background: radial-gradient(circle, rgba(238,174,202,1) 54%, rgba(47,5,50,0.10407913165266103) 55%);
    
 }
 
 #quien_soy {
-    background-color: indianred;
+    
 text-decoration: violet
 }
 #cosas_feliz {
-    background-color: dimgray;
+  
     text-decoration: deepskyblue;
 }
 #cosas_enojar{
-    background-color: dimgray;
+  
    text-decoration: deepskyblue;
 }
 #unica {
-    background-color: dimgray;
+   
     text-decoration: deepskyblue;
 }
 
