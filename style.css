@@ -66,6 +66,7 @@ div{
     border: solid 1px paleturquoise;
     padding: 15px 10px;
     flex-direction: column;
+    justify-content: center;
 }
 ul.menu{
     width: 100%;
