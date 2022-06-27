@@ -72,7 +72,7 @@ ul.menu{
     background-color: rebeccapurple;
 }
 
-*{
+#conteiner,h1,h2{
     font-family: 'League Gothic', sans-serif;
 }
 
