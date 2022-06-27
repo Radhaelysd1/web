@@ -24,7 +24,9 @@ color: cornflowerblue;
 #Intro{
   
  
-    background: radial-gradient(circle, rgba(212,131,190,1) 0%, rgba(43,5,50,0.10407913165266103) 100%);
+    background-color: #4158D0;
+background-image: linear-gradient(43deg, #4158D0 0%, #c750c8 30%, #ffffff 100%);
+
 }
 
 #quien_soy {
