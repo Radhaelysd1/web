@@ -32,12 +32,14 @@ background-image: linear-gradient(43deg, #4158D0 0%, #c750c8 30%, #ffffff 100%);
 
 }
 #cosas_feliz {
-  
+    background-color: #33805980;
+    background-image: linear-gradient(43deg, #21d4adc7 0%, #195557 30%, #ffffff 100%);
 
 }
 #cosas_enojar{
   
-   
+    background-color: #1477d3bd;
+    background-image: linear-gradient(43deg, #399ac0a6 0%, #515896ad 30%, #ffffff 100%);
 }
 #unica {
    
