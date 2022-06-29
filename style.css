@@ -69,7 +69,7 @@ ul.menu{
     width: 100%;
     display: flex;
     list-style: none;
-    justify-content: space-between;
+    justify-content: space-around;
     background-color: rebeccapurple;
 }
 
