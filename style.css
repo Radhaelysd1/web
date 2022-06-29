@@ -19,6 +19,7 @@ text-decoration: none;
 color: cornflowerblue;
 }
 
+  
 #Intro{
     background-color: #4158D0;
 background-image: linear-gradient(43deg, #4158D0 0%, #c750c8 30%, #ffffff 100%);
@@ -47,6 +48,35 @@ background-image: linear-gradient(43deg, #4158D0 0%, #c750c8 30%, #ffffff 100%);
     background-image: linear-gradient(43deg, #ce2b84a6 0%, #ac4556cb 30%, #ffffffe5 100%);
 }
 
+#personalidad {
+   
+    background-color: #d3141e8c;
+    background-image: linear-gradient(43deg, #ce2b84a6 0%, #ac4556cb 30%, #ffffffe5 100%);
+}
+
+#inteligencia {
+   
+    background-color: #d3141e8c;
+    background-image: linear-gradient(43deg, #ce2b84a6 0%, #ac4556cb 30%, #ffffffe5 100%);
+}
+
+#virtudes {
+   
+    background-color: #d3141e8c;
+    background-image: linear-gradient(43deg, #ce2b84a6 0%, #ac4556cb 30%, #ffffffe5 100%);
+}
+
+#metas {
+   
+    background-color: #d3141e8c;
+    background-image: linear-gradient(43deg, #ce2b84a6 0%, #ac4556cb 30%, #ffffffe5 100%);
+}
+
+#agradecimiento {
+   
+    background-color: #d3141e8c;
+    background-image: linear-gradient(43deg, #ce2b84a6 0%, #ac4556cb 30%, #ffffffe5 100%);
+}
 div{
 
     margin: 55px;
@@ -85,6 +115,8 @@ ul.menu{
 #container{
     background: radial-gradient(circle, rgba(238,174,202,1) 54%, rgba(47,5,50,0.10407913165266103) 55%);
 }
+
+div {padding: 30px 10px;}
 
 
 
