@@ -55,11 +55,12 @@ div{
 }
 .menu{
     position: fixed;
+    
     top: 0;
     left: 0;
 }
 #menu,li{
-    border: solid 1px paleturquoise;
+  
     padding: 15px 10px;
     flex-direction: column;
     justify-content: center;
